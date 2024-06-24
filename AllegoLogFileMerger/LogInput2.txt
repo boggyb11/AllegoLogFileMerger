@@ -1,0 +1,2 @@
+﻿2018-07-29 14:14:46.675 Hello Refract Next Month!
+2018-07-29 14:15:00.123 Goodbye Refract Next Month!
